@@ -1,0 +1,13 @@
+**TIPOS SENSORES**
+1.- HC-SR501 (PIR)
+Distancia de detección: 7 metros
+Angulo de detección: de 90º a 110º
+
+2.- HC-SR04 (Ultrasonido)
+Distancia de detección: 2cm - 450cm
+Angulo de detección: < 15 grados
+ 
+3.- Infrarrojos
+Distancia de deteccion: 2cm -40cm
+Angulo de deteccion: 35 grados
+

@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "TOF1020_I2C.ino",
+    "port": "COM6"
+}
